@@ -1,0 +1,25 @@
+● ls
+● mkdir
+● cd
+
+
+ls :- use to list out all the files and folders.
+a. ls filename :- use to check whether the file exist ot not.
+b. ls -l filename.sh :- use to check details of the file. 
+c. ls -d directoryname :- use to check whether a dictionary exist or not.
+d. ls dictionaryname :- use to check details of the dictionary. 
+e. ls -a :- use to list out all the files and folders including hidden files.
+f. ls *.txt :- use ti find file of a given type.
+
+mkdir (make dictionary):- use to create dictionary with another dictionary OR use to create parent dictionary with child dictionary
+a. mkdir ab :- use to make dictionary 
+b. mkdir ab1 ab2 ab3 :-. use to create multiple dictionary 
+c. mkdir ab4\xyz:- to create dictionary of any name with space. 
+d. mkdir -p os1/theroy/D.
+
+cd (change dictionary):-
+a. cd ab xyz :- use to change dictionary 
+b. cd.. :- use to gi back one step. 
+c. cd ab/ xyz :- 
+d. cd~ :- use to go back to route.
+ 
