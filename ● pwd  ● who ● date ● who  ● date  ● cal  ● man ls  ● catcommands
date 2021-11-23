@@ -1,0 +1,20 @@
+● pwd 
+● who
+● date
+● who 
+● date 
+● cal 
+● man ls 
+● cat
+
+pwd(present working dictionary):- It prints the path of the working directory, starting from the root.
+
+who :- use to know the list of users. a. whoami :- it use to find the current logged in user.
+
+date :- it tells the date
+
+cal :- it gives calander.
+
+man ls :- manual for all list and command.
+
+cat :- a. Use to create a new file. Syntax :- cat>filename b. Use to display the files. Syntax :- cat filename. c. Use to do modification in file. Syntax :- cat>>filename
