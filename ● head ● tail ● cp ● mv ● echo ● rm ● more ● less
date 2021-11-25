@@ -1,0 +1,32 @@
+● head
+● tail 
+● cp 
+● mv 
+● echo
+● rm 
+● more 
+● less
+
+head :- use to display top 10 lines by default. 
+Syntax :- head filename. 
+
+tail :- use to display bottom 10 lines.
+
+cp :- Cp copies the content of file1 to file2. 
+
+mv :- used to transfer the content of file1 into file2 and erase the entire file1.
+Syntax:- mv file1 file2
+
+echo :- used to write the print statement
+Syntax :- bash -f filename.
+
+rm :- Used to remove file and dictionary.
+a. Used to delete file 
+b. If dictionary is empty then write. 
+c. If dictionary is not empty write. 
+
+more :- it is used to print one screenfull content at a time .
+If we want to view next page then we can use the option f from keyboard. 
+
+less :- use to displays file contents or command output one page at a time in your terminal. 
+Syntax :- less filename
