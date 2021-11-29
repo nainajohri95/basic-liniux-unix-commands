@@ -1,0 +1,22 @@
+cut:-It is use to display data columm
+wise.
+Synatx:- cut -f '3' -d '|' student.
+
+
+sort:- It is use do sorting (sort according to a sky and also sort the heading).
+Synatx:- sort -k '2' -t '|' student .
+
+Chmod:- It is use to change the mode of the file.
+Syntax:- chmode 775 student.
+
+
+sed command(stream lime editor):- used to display data row wise (can't print specific line).
+Synatx:- sed -n '5p' hello.
+
+
+Substitution:- It is use to do substitution.
+Syntax:- sed 's/old value/new value/g' filename.
+
+
+grep:- It is use to search any keyword from a file.
+Synatx:- grep hello filename.
