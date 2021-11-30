@@ -1,0 +1,23 @@
+du command (disk storage):- 
+Synatx:- du -h filename.
+
+history command:- It is used to check the history.
+Syntax:- history.
+
+last command:- It is used to print last login data.
+Synatx:- last.
+
+diff command:- It is used to display file1 content and file2 content.
+Syntax:- diff file1 file2.
+
+uniq command:- It is used to find unique and duplicate reward with no repeat.
+Synatx:- uniq filename.
+a)To print individual unique record
+             Synatx:- uniq -d filename
+b)To print duplicate record
+ Synatx:- uniq -d filename
+c)For counting:- 
+Synatx:- uniq -c filename.
+
+pipe command:-  It is use to combine two or more than two commands.
+Syntax:- head -7 file2|tail -1.
