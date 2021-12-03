@@ -1,0 +1,9 @@
+//write a shell script to display current date, no. of users , currently login , current date & current cal//
+
+at editor side :-                                                       at terminal side:-
+echo "current date is"                                                  bash -f filename.sh
+date
+echo "no. of users"
+whoami\wc -l
+echo "current month calander"
+cal
