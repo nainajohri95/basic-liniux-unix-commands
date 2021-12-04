@@ -1,0 +1,6 @@
+Write a shell script to diplay process name & process id.
+
+
+At editor:-                                                           At terminal:-
+echo "processname id is" $0                                           bash -f filename.sh
+echo "processname id is" $$
