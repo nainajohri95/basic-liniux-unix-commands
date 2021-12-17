@@ -1,0 +1,11 @@
+echo "enter a no."
+read n
+a=0
+b=0
+while [ $n -gt 0 ]
+do
+a=$(($n%10))
+b=$(($b * 10 + $a))
+n=$(($n/10))
+done
+echo "reverse no. is $b"
