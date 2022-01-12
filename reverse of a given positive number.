@@ -1,0 +1,12 @@
+//wite a shell script that print reverse of a given positive number.
+
+echo “enter any number”
+read a
+rev=0
+while [ $a –gt 0 ]
+do
+rev=$(($rev * 10))
+rev=$(($rev + $a % 10))
+a=$(($a / 10))
+done
+echo “reverse of a number is $rev”
